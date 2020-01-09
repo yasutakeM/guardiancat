@@ -110,7 +110,7 @@
     line-height: 1.4;
     text-align: left;
     color: #656565;
-    font-weight: 100;
+    font-weight: bold;
     padding: 0 12px;
 }
 
@@ -120,6 +120,7 @@ margin-top: 12px;
 font-size: 1.4rem;
 line-height: 1.6;
 padding: 0 12px;
+font-weight: bold;
 color: #656565;
 }
 .caption h2 span{

@@ -58,7 +58,6 @@
                               <div class="contentsImage" style="background:url(../assets/images/catlist/<?php echo $image; ?>);background-position: center center;background-size: cover;">&nbsp;</div>
                               <div class="contents__details">
                                   <ul>
-
                                       <li>
                                           <div>地域</div>
                                           <div>                                      
